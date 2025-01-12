@@ -1,7 +1,7 @@
 # Introduction
 
 A guide to understand Events in Javascript and how they are used in Eventlisteners of the EventTarget Interface.If you are 
-not familiar with events in Javascript , an Event interface represents an event ( Don't think hard it's just an action ) that takes place on an EventTarget .The EventTarget interface is implemented by objects that can recieve events and may have listeners for them. An event can be triggered by user action
+not familiar with events in Javascript , an Event interface represents an event technically it's just an action that takes place on an EventTarget .The EventTarget interface is implemented by objects that can recieve events and may have listeners for them. An event can be triggered by user action
 eg tapping the mouse button or tapping a keyboard. Common targets of the EventTarget are the Element, Document and Window objects.
 
 # DOMContentLoaded
